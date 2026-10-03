@@ -1,7 +1,7 @@
 {
-  "v": "3.0.4",
+  "v": "3.0.5",
   "crx": "jb-ext.crx",
-  "sha256": "1dee871ce2bdad458855e7561958dd3eba08e3a3acc372426677af6c03b93723",
-  "bundledPayloadV": "20261003.3",
-  "builtAt": "2026-10-03T03:42:25.077Z"
+  "sha256": "a8e89f9a1b451ea5f72010e735107a15479dbabe405370505a155746332dd0d7",
+  "bundledPayloadV": "20261003.4",
+  "builtAt": "2026-10-03T04:59:20.037Z"
 }
