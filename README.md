@@ -1,7 +1,5 @@
 # JAVDB全能助手
 
-> ⚠️ **本脚本以后不再更新了，更新的话，请移步到：[GitHub 仓库](https://github.com/dmdx-cc/JavdbBuddy) 或 [Gitee 仓库](https://gitee.com/lfsnd/javdb-all-in-one-assistant)**
-
 > JAVDB 一站式增强浏览器扩展：媒体库入库同步、在线播放、预告片、预览图、磁力链聚合、多站点搜索、免 VIP 榜单，即装即用。
 
 ---
