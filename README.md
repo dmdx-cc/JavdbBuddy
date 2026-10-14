@@ -49,13 +49,13 @@
 
 **安装包与完整安装教程请移步 [Releases](https://github.com/dmdx-cc/JavdbBuddy/releases)** —— 每个版本附带对应平台的安装包与安装说明。
 
-也可以访问官网页面获取最新版本与介绍：**[JAVDB全能助手 · 官网](https://www.dmdx.cc/javdbbuddy)**
+也可以访问官网页面获取最新版本与介绍：**[JAVDB全能助手 · 官网](https://www.dmdx.cc/#javdbbuddy)**
 
 ## 📇 联系方式
 
 | 渠道 | 链接 |
 |------|------|
-| <img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行） | <https://www.dmdx.cc/javdbbuddy> |
+| <img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行） | <https://www.dmdx.cc/#javdbbuddy> |
 | <img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库 | <https://github.com/dmdx-cc/JavdbBuddy> |
 | <img src="assets/gitee.svg" width="20" height="20" alt="Gitee"> Gitee 仓库 | <https://gitee.com/lfsnd/javdb-all-in-one-assistant> |
 | <img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 私聊 | <https://t.me/xsgz6> |
