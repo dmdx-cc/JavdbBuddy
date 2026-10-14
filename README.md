@@ -55,11 +55,12 @@
 
 | 渠道 | 链接 |
 |------|------|
-| 🌐 官网（代码独行） | <https://www.dmdx.cc/javdbbuddy> |
-| 🔄 Gitee 仓库 | <https://gitee.com/lfsnd/javdb-all-in-one-assistant> |
-| 💬 Telegram 私聊 | <https://t.me/xsgz6> |
-| 📢 Telegram 频道 | <https://t.me/javdbbuddy> |
-| 👥 Telegram 群组 | <https://t.me/avdbbuddy_qz> |
+| <img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行） | <https://www.dmdx.cc/javdbbuddy> |
+| <img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库 | <https://github.com/dmdx-cc/JavdbBuddy> |
+| <img src="assets/gitee.svg" width="20" height="20" alt="Gitee"> Gitee 仓库 | <https://gitee.com/lfsnd/javdb-all-in-one-assistant> |
+| <img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 私聊 | <https://t.me/xsgz6> |
+| <img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 频道 | <https://t.me/javdbbuddy> |
+| <img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 群组 | <https://t.me/avdbbuddy_qz> |
 
 ## ⭐ 支持
 
