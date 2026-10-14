@@ -55,14 +55,18 @@
 
 点击名称即可在新标签页打开：
 
-| 渠道 |
-|------|
-| <a href="https://www.dmdx.cc/#javdbbuddy" target="_blank"><img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行）</a> |
-| <a href="https://github.com/dmdx-cc/JavdbBuddy" target="_blank"><img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库</a> |
-| <a href="https://gitee.com/lfsnd/javdb-all-in-one-assistant" target="_blank"><img src="assets/gitee.svg" width="20" height="20" alt="Gitee"> Gitee 仓库</a> |
-| <a href="https://t.me/xsgz6" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 私聊</a> |
-| <a href="https://t.me/javdbbuddy" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 频道</a> |
-| <a href="https://t.me/avdbbuddy_qz" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 群组</a> |
+<table>
+  <tr>
+    <td><a href="https://www.dmdx.cc/#javdbbuddy" target="_blank"><img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行）</a></td>
+    <td><a href="https://github.com/dmdx-cc/JavdbBuddy" target="_blank"><img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库</a></td>
+    <td><a href="https://gitee.com/lfsnd/javdb-all-in-one-assistant" target="_blank"><img src="assets/gitee.svg" width="20" height="20" alt="Gitee"> Gitee 仓库</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://t.me/xsgz6" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 私聊</a></td>
+    <td><a href="https://t.me/javdbbuddy" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 频道</a></td>
+    <td><a href="https://t.me/avdbbuddy_qz" target="_blank"><img src="assets/telegram.svg" width="20" height="20" alt="Telegram"> Telegram 群组</a></td>
+  </tr>
+</table>
 
 ## ⭐ 支持
 
